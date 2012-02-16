@@ -1,0 +1,8 @@
+cobertura.ser
+stacktrace.log
+target
+.idea
+.iml
+.classpath
+.project
+.settings
